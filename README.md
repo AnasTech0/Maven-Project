@@ -31,4 +31,3 @@ To execute the program, type this:
 ```console
 java HelloWorld
 ```
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AnasTech0&show_icons=true)
