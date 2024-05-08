@@ -32,4 +32,3 @@ To execute the program, type this:
 java HelloWorld
 ```
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasTech0&theme=black-red)
